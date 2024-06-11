@@ -1,4 +1,4 @@
-![Top Langs](https://readme-stats-three-sooty.vercel.app/api/top-langs/?username=bertschmario&langs_count=8&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats-gamma-seven.vercel.app/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
-![Stats](https://readme-stats-three-sooty.vercel.app/api?username=bertschmario&show_icons=true&theme=radical)
+![Top Langs](https://readme-stats-three-sooty.vercel.app/api/top-langs/?username=bertschmario&langs_count=8&theme=radical&layout=donut)
 
