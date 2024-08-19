@@ -1,4 +1,4 @@
-# Current Projects
+# Projects
 
 > ## [AiCatsAPI](https://ai-cats.net)
 > AI Cats Art is a platform providing access to a vast library of AI-generated cat images through a free API. This makes it an ideal resource for developers seeking to incorporate a wide range of unique, pre-generated cat visuals into their projects without the need to generate images themselves. The extensive collection ensures a diverse selection of cat images, ready for use in various creative and technological applications.
