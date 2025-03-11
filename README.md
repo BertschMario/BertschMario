@@ -1,4 +1,4 @@
-# Projects
+# My Projects
 
 > ## [Erralyze](https://erralyze.com)
 > Erralyze is an automated error logging and monitoring tool for production websites, providing real-time insights into errors and performance issues via a user-friendly dashboard. With seamless integration through an NPM package or script tag, developers can efficiently detect, analyze, and resolve issues without manual debugging. Currently in development, Erralyze will launch its beta in April 2025.
